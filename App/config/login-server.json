@@ -1,0 +1,8 @@
+{
+  "port": 6903,
+  "ip": "127.0.0.1",
+  "usercount_enabled": true,
+  "usercount_low": 50,
+  "usercount_medium": 100,
+  "usercount_high":  500
+}

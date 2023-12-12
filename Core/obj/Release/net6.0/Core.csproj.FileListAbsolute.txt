@@ -1,0 +1,17 @@
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\bin\Release\net6.0\Core.deps.json
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\bin\Release\net6.0\Core.runtimeconfig.json
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\bin\Release\net6.0\Core.dll
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\bin\Release\net6.0\Core.pdb
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\bin\Release\net6.0\Shared.dll
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\bin\Release\net6.0\Shared.pdb
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Release\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Release\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Release\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Release\net6.0\Core.AssemblyInfo.cs
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Release\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Release\net6.0\Core.csproj.CopyComplete
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Release\net6.0\Core.dll
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Release\net6.0\refint\Core.dll
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Release\net6.0\Core.pdb
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Release\net6.0\Core.genruntimeconfig.cache
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Release\net6.0\ref\Core.dll
