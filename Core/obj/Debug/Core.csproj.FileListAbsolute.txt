@@ -13,3 +13,4 @@ C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Debug\refint\Core.d
 C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Debug\Core.pdb
 C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Debug\Core.genruntimeconfig.cache
 C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Debug\ref\Core.dll
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Core\obj\Debug\Core.sourcelink.json

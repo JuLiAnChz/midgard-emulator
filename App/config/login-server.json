@@ -4,5 +4,7 @@
   "usercount_enabled": true,
   "usercount_low": 50,
   "usercount_medium": 100,
-  "usercount_high":  500
+  "usercount_high":  500,
+	"server_type": 0,
+	"display_as_new": 0
 }

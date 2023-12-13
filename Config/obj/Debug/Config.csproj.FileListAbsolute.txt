@@ -11,3 +11,4 @@ C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Config\obj\Debug\Config.dll
 C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Config\obj\Debug\refint\Config.dll
 C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Config\obj\Debug\Config.pdb
 C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Config\obj\Debug\ref\Config.dll
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Config\obj\Debug\Config.sourcelink.json

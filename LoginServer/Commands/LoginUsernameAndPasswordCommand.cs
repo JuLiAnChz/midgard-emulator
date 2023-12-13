@@ -93,9 +93,9 @@ namespace LoginServer.Commands
                     bw.Write((ushort)Core.config!.charServerConfig.Port);
                     bw.Write((char[])Core.config!.emulatorConfig.ServerName.ToCharArray());
                     bw.BaseStream.Seek(bw.BaseStream.Position + (20 - Core.config!.emulatorConfig.ServerName.Length), SeekOrigin.Begin);
-                    bw.Write((ushort)GetUserCount(usersOnline));// Fake user count
-                    bw.Write((ushort)0);// server type 0=normal, 1=maintenance, 2=over 18, 3=paying, 4=P2P
-                    bw.Write((ushort)0);// Should display as new
+                    bw.Write((ushort)GetUserCount(usersOnline));
+                    bw.Write((ushort)Core.config!.loginServerConfig.ServerType);// server type 0=normal, 1=maintenance, 2=over 18, 3=paying, 4=P2P
+                    bw.Write((ushort)Core.config!.loginServerConfig.ShowDisplayAsNew);// Should display as new
                     bw.Write(new byte[128]);
 
                     client.client.Client.Send(ms.ToArray());

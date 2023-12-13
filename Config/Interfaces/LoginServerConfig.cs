@@ -14,5 +14,8 @@ namespace Config.Interfaces
         public int UserCountLow {  get; set; }
         public int UserCountMedium {  get; set; }
         public int UserCountHigh {  get; set; }
+
+        public int ShowDisplayAsNew { get; set; }
+        public int ServerType { get; set; }
     }
 }

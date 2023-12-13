@@ -67,7 +67,9 @@ namespace Config
                 EnabledUserCount = Boolean.Parse(dbConfigJson["usercount_enabled"]!),
                 UserCountLow = Int32.Parse(dbConfigJson["usercount_low"]!),
                 UserCountMedium = Int32.Parse(dbConfigJson["usercount_medium"]!),
-                UserCountHigh = Int32.Parse(dbConfigJson["usercount_high"]!)
+                UserCountHigh = Int32.Parse(dbConfigJson["usercount_high"]!),
+                ServerType = Int32.Parse(dbConfigJson["server_type"]!),
+                ShowDisplayAsNew = Int32.Parse(dbConfigJson["display_as_new"]!)
             };
             this.loginServerConfig = lsConfig;
         }
