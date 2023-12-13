@@ -1,0 +1,13 @@
+- **port**: Port number for the login server.
+- **ip**: IP address of the login server.
+- **usercount_enabled**: Enable tracking of the number of users on the server.
+- **usercount_low**: Server marked as low (Smooth green color) based on `usercount_enabled`.
+- **usercount_medium**: Server marked as medium (Yellow color) based on `usercount_enabled`.
+- **usercount_high**: Server marked as high (Red color) based on `usercount_enabled`.
+- **server_type**: Server type:
+  - 0: Normal
+  - 1: Maintenance
+  - 2: Over 18
+  - 3: Paying
+  - 4: Pay-to-Play (P2P)
+- **display_as_new**: If set to 1, the server will be displayed as [new server] in the list of servers; if set to 0, it will not be displayed.

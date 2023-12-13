@@ -10,3 +10,4 @@ C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Shared\obj\Debug\Shared.dll
 C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Shared\obj\Debug\refint\Shared.dll
 C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Shared\obj\Debug\Shared.pdb
 C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Shared\obj\Debug\ref\Shared.dll
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\Shared\obj\Debug\Shared.sourcelink.json

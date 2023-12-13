@@ -53,3 +53,4 @@ C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\App\Debug\LoginServer.deps.j
 C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\App\Debug\LoginServer.runtimeconfig.json
 C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\App\Debug\LoginServer.dll
 C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\App\Debug\LoginServer.pdb
+C:\Users\Julian\Documents\VisualWPF\MidgardEmulator\LoginServer\obj\Debug\LoginServer.sourcelink.json

@@ -1,5 +1,6 @@
 ﻿using Core.Network;
 using LoginServer.Commands;
+using LoginServer.Packets;
 using Shared;
 
 namespace LoginServer
@@ -8,7 +9,7 @@ namespace LoginServer
     {
         private Dictionary<byte, ICommand> commandMap = new Dictionary<byte, ICommand>();
         public CommandProcessor() {
-            commandMap.Add(0x0064, new LoginUsernameAndPasswordCommand());
+            commandMap.Add(LoginPackets.USERNAME_AND_PASSWORD, new LoginUsernameAndPasswordCommand());
         }
 
         public void ProcessCommand(byte[] packetData, string ipAddress)
@@ -17,7 +18,7 @@ namespace LoginServer
             {
                 byte commandType = packetData[0];
 
-                if(commandMap.TryGetValue(commandType, out ICommand command))
+                if(commandMap.TryGetValue(commandType, out ICommand? command))
                 {
                     command.Execute(packetData, ipAddress);
                 } else

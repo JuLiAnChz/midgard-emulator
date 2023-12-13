@@ -1,4 +1,5 @@
 ﻿using Core.Network;
+using LoginServer.Packets;
 
 namespace LoginServer.Commands
 {
@@ -10,7 +11,7 @@ namespace LoginServer.Commands
 
         public bool validatePackedLength()
         {
-            if((_packetHeader == 0x0064 && _packedData.Length < 55) ||
+            if((_packetHeader == LoginPackets.USERNAME_AND_PASSWORD && _packedData.Length < LoginPackets.USERNAME_AND_PASSWORD_LENGTH) ||
                 (_packetHeader == 0x0277 && _packedData.Length < 84) ||
                 (_packetHeader == 0x02b0 && _packedData.Length < 85) ||
                 (_packetHeader == 0x01dd && _packedData.Length < 47) ||

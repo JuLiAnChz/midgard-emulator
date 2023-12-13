@@ -40,9 +40,6 @@ namespace LoginServer
                 if (clients.ContainsKey(clientIpAddres!))
                 {
                     clients.TryRemove(clientIpAddres!, out var c);
-
-                    /*if (fd.AccountId > 0 && PlayersSession.ContainsKey(fd.AccountId))
-                        PlayersSession.TryRemove(fd.AccountId, out var ps);*/
                 }
                 Display.Info($"Client disconnected {client.Client.RemoteEndPoint}");
             }
