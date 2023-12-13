@@ -1,4 +1,7 @@
 .vs
 App/Debug/**
+App/Debug
 App/Release/**
+App/Release
 /*/obj/**
+/*/obj
